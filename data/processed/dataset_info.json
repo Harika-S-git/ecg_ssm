@@ -1,0 +1,12 @@
+{
+    "total_samples": 112511,
+    "train_samples": 90008,
+    "test_samples": 22503,
+    "normal_samples": 90557,
+    "arrhythmia_samples": 21954,
+    "window_size": 512,
+    "classes": {
+        "0": "Normal",
+        "1": "Arrhythmia"
+    }
+}
